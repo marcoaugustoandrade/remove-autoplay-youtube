@@ -1,0 +1,12 @@
+{
+    "manifest_version": 2,
+    "name": "Remove Yotube autoplay",
+    "version": "1.0",
+    "description": "Remove o autoplay do Youtube.",
+    "browser_action": {
+      "default_popup": "app.js"
+    },
+    "icons": {
+      "16": "icon.png"
+    }
+  }
